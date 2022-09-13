@@ -1,0 +1,3 @@
+from moduloo import somar_numeros
+
+print(somar_numeros(1,2,3))
